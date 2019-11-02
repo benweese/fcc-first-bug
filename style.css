@@ -1,0 +1,28 @@
+main{
+  background-color: silver;
+  padding: 20px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 20px;
+}
+.images {
+  margin:0 auto;
+}
+#image {
+  
+}
+#img-caption {
+  background-color: gray;
+  padding: 5px;
+}
+body {
+  text-align: center;
+  background-color: black;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  justify-self: center;
+}
