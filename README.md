@@ -1,5 +1,6 @@
 [Free Code Camp: Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 ---------
+![Actions](https://github.com/benweese/fcc-first-bug/workflows/Jekyll%20site%20CI/badge.svg) ![GitHub](https://img.shields.io/github/license/benweese/fcc-first-bug.svg) ![GitHub issues](https://img.shields.io/github/issues-raw/benweese/fcc-first-bug.svg)
 
 This site was created for Free Code Camp's project to Build a Tribute page. I created one using the First Bug found in a computer system. The site is basic and passes the below user stories.
 
